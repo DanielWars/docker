@@ -13,7 +13,7 @@ The first name...
 ### `time`
 
 The elapsed time...
-
+##
 ## Example usage
 ```
 uses: raulanatol/my-action@v1.0.0

@@ -1,10 +1,10 @@
 name: 'My Action'
-description: 'My first action with docker'
+description: 'My first actions with docker'
 inputs:
  FIRST_NAME:
    description: 'The first name'
    required: false
-   default: 'John'
+   default: 'JUAN'
 outputs:
  time:
    description: 'The elapsed time'
